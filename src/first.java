@@ -4,4 +4,5 @@ public class first {
 
 
     void method2 () {}
+    void methods (){}
     }
